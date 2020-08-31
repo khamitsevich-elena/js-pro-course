@@ -1,0 +1,14 @@
+
+  .todo-list {
+    max-width: 400px;
+  }
+  
+  .todo {
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    font-size: 15px;
+    margin-bottom: 6px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
